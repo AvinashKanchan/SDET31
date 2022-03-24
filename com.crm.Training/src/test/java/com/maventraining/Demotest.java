@@ -30,6 +30,7 @@ public void Write() {
 	System.out.println("try to pull above statement in new workspace");
 	System.out.println("first pull then push");
 	System.out.println("my conflict is not cominig again");
+	System.out.println("trying for a conflict");
 }
 }
 
