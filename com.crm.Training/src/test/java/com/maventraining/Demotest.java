@@ -12,6 +12,7 @@ public void Read() {
 	System.out.println("maven reading");
 }
 
+
 @Test
 public void Write() {
 	System.out.println("maven Writing");
@@ -24,21 +25,18 @@ public void Write() {
 
 	System.out.println("changes done");
 	System.out.println("new updated change");
-	System.out.println("edited by bibhu");
-<<<<<<< HEAD
 	
+	
+	System.out.println("sumit branch created");
+	System.out.println("edited by bibhu");
 	System.out.println("my conflict issue resolved");
+	
 	System.out.println("try to pull above statement in new workspace");
 	System.out.println("first pull then push");
 	System.out.println("my conflict is not cominig again");
 	System.out.println("trying for a conflict");
-=======
-	System.out.println("updated");
->>>>>>> branch 'master' of https://github.com/AvinashKanchan/SDET31.git
 }
 }
-
-
 
 
 
