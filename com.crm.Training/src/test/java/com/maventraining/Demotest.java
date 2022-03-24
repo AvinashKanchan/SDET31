@@ -25,6 +25,7 @@ public void Write() {
 	System.out.println("changes done");
 	System.out.println("new updated change");
 	System.out.println("edited by bibhu");
+	System.out.println("updated");
 }
 }
 
