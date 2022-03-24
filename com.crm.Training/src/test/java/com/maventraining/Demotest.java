@@ -16,6 +16,7 @@ public void Read() {
 public void Write() {
 	System.out.println("maven Writing");
 	System.out.println("changes done");
+	System.out.println("new updated change");
 }
 }
 
