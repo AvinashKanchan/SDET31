@@ -27,6 +27,7 @@ public void Write() {
 	System.out.println("edited by bibhu");
 	System.out.println("updated");
 	System.out.println("want conflict");
+	System.out.println("why not push");
 }
 }
 
