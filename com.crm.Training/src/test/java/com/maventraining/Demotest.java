@@ -18,15 +18,10 @@ public void Write() {
 	System.out.println("update maven in new workspace");
 	System.out.println("please look in new workspace ");
 	System.out.println("push and pull");
-	
+	System.out.println("tried so many times");
+	System.out.println("how to remove black dot");
 }
 }
-
-
-
-
-
-
 
 
 
