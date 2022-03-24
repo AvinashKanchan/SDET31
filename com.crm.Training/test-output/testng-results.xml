@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-23T14:56:21 IST" name="Default suite" finished-at="2022-03-23T14:56:28 IST" duration-ms="6205">
+  <suite started-at="2022-03-24T14:16:20 IST" name="Default suite" finished-at="2022-03-24T14:16:20 IST" duration-ms="104">
     <groups>
     </groups>
-    <test started-at="2022-03-23T14:56:21 IST" name="Default test" finished-at="2022-03-23T14:56:28 IST" duration-ms="6205">
-      <class name="com.maventraining.LoginTest">
-        <test-method signature="main()[pri:0, instance:com.maventraining.LoginTest@1cbb87f3]" started-at="2022-03-23T14:56:21 IST" name="main" finished-at="2022-03-23T14:56:28 IST" duration-ms="6157" status="PASS">
+    <test started-at="2022-03-24T14:16:20 IST" name="Default test" finished-at="2022-03-24T14:16:20 IST" duration-ms="104">
+      <class name="com.maventraining.Demotest">
+        <test-method signature="Read()[pri:0, instance:com.maventraining.Demotest@649bec2e]" started-at="2022-03-24T14:16:20 IST" name="Read" finished-at="2022-03-24T14:16:20 IST" duration-ms="8" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- main -->
-      </class> <!-- com.maventraining.LoginTest -->
+        </test-method> <!-- Read -->
+        <test-method signature="Write()[pri:0, instance:com.maventraining.Demotest@649bec2e]" started-at="2022-03-24T14:16:20 IST" name="Write" finished-at="2022-03-24T14:16:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Write -->
+        <test-method signature="learn()[pri:0, instance:com.maventraining.Demotest@649bec2e]" started-at="2022-03-24T14:16:20 IST" name="learn" finished-at="2022-03-24T14:16:20 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- learn -->
+      </class> <!-- com.maventraining.Demotest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -15,5 +15,8 @@ public void Read() {
 @Test
 public void Write() {
 	System.out.println("maven Writing");
+	System.out.println("update maven in new workspace");
+	System.out.println("please look in new workspace ");
+	
 }
 }
